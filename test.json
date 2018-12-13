@@ -1,0 +1,1275 @@
+[
+  {
+    "id" : "96ef7123-bfd1-442f-961e-0f5401f9dff9",
+    "groupKey" : "Double",
+    "name" : "Double Room - Economy",
+    "description" : "Double Room - Economy",
+    "totalPrice" : 83.46,
+    "price" : 83.46,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1360",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : true
+  },
+  {
+    "id" : "e133e753-73eb-45df-a4e1-5ea53ccb75d2",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 1 Bedroom",
+    "description" : "Apartment 1 Bedroom",
+    "totalPrice" : 88.8,
+    "price" : 88.8,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "50",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 8.8
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 26.38
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 43.96
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "c87a5e5a-42a8-4c99-8264-b132456bc35e",
+    "groupKey" : "Double",
+    "name" : "Double Room",
+    "description" : "Double Room",
+    "totalPrice" : 90.32,
+    "price" : 90.32,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1020",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "0af42894-186a-4aa9-8e54-53c0cdcae2dd",
+    "groupKey" : "Double",
+    "name" : "Double Room - Sea View",
+    "description" : "Double Room - Sea View",
+    "totalPrice" : 94.9,
+    "price" : 94.9,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1299",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 28.19
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 46.98
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "sea view"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "9cc43d66-ccc0-4cde-b6b1-142b374ab92c",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 2 Bedroom",
+    "description" : "Apartment 2 Bedroom",
+    "totalPrice" : 109.38,
+    "price" : 109.38,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "60",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 10.83
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 32.49
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 54.15
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "1eb1295d-a1c5-411b-a4e2-06dd45c39ebe",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 1 Bedroom - Economy",
+    "description" : "Apartment 1 Bedroom - Economy",
+    "totalPrice" : 112.43,
+    "price" : 112.43,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1553",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 11.14
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 33.4
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 55.66
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "0f0c6366-913a-4c4c-9a94-88a970b9ef2f",
+    "groupKey" : "Double/Twin",
+    "name" : "Twin/Double Room - Sea View",
+    "description" : "Twin/Double Room - Sea View",
+    "totalPrice" : 140.25,
+    "price" : 140.25,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "22",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double",
+      "Twin"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "sea view"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "72693bdd-e59c-4094-b093-a2cd025b2078",
+    "groupKey" : "Double/Twin",
+    "name" : "Twin/Double Room",
+    "description" : "Twin/Double Room",
+    "totalPrice" : 140.25,
+    "price" : 140.25,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "21",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double",
+      "Twin"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "6a3eecac-7969-40d0-8805-cb0c79df91f8",
+    "groupKey" : "Studio",
+    "name" : "Studio - Economy",
+    "description" : "Studio - Economy",
+    "totalPrice" : 141.77,
+    "price" : 141.77,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1489",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Studio"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "ca595154-5a8f-4a8c-9f0e-a693c46abcfa",
+    "groupKey" : "Double/Twin",
+    "name" : "Twin/Double Room - Budget",
+    "description" : "Twin/Double Room - Budget",
+    "totalPrice" : 141.77,
+    "price" : 141.77,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1288",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double",
+      "Twin"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "c4b26833-8e23-467c-a747-6df4373ed40e",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 1 Bedroom",
+    "description" : "Apartment 1 Bedroom",
+    "totalPrice" : 150.92,
+    "price" : 150.92,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "50",
+    "boardCodeDescription" : "Breakfast",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 14.95
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 44.83
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 74.71
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "94eed460-e3cc-4499-ba29-8a357b51e63b",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 2 Bedroom",
+    "description" : "Apartment 2 Bedroom",
+    "totalPrice" : 171.5,
+    "price" : 171.5,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "60",
+    "boardCodeDescription" : "Breakfast",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 16.98
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 50.94
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 84.9
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "91ca4421-c59c-4a38-ad14-b0161443106e",
+    "groupKey" : "Suite",
+    "name" : "Suite 1 Bedroom",
+    "description" : "Suite 1 Bedroom",
+    "totalPrice" : 194.36,
+    "price" : 194.36,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1150",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "Suite"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "57034fac-c335-4b61-9ab8-b4ea3d4b9e97",
+    "groupKey" : "Double",
+    "name" : "Double Room - Economy",
+    "description" : "Double Room - Economy",
+    "totalPrice" : 224.47,
+    "price" : 224.47,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1360",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 66.68
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 111.13
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "62c0486b-8c89-470f-92f3-742833f4df1f",
+    "groupKey" : "Double",
+    "name" : "Double Room - Sea View",
+    "description" : "Double Room - Sea View",
+    "totalPrice" : 231.33,
+    "price" : 231.33,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1299",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 68.71
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 114.52
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "sea view"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "5536e4c1-5806-4cf7-9e91-bd14e6a4fd6f",
+    "groupKey" : "Double",
+    "name" : "Double Room",
+    "description" : "Double Room",
+    "totalPrice" : 231.33,
+    "price" : 231.33,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1020",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 68.71
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 114.52
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "466b5373-7c1a-4048-b7c7-aeaa256e6572",
+    "groupKey" : "Suite",
+    "name" : "Suite 2 Bedrooms",
+    "description" : "Suite 2 Bedrooms",
+    "totalPrice" : 248.86,
+    "price" : 248.86,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1192",
+    "boardCodeDescription" : "Room Only",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : false,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : null,
+    "roomCancelCharges" : [],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double"
+    ],
+    "roomTypeLabel" : [
+      "Suite"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "7f2bd6f0-f31c-4024-b9f0-1e91cb6f5991",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 1 Bedroom",
+    "description" : "Apartment 1 Bedroom",
+    "totalPrice" : 254.96,
+    "price" : 254.96,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "50",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 25.25
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 75.73
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 126.22
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "d270fe41-2a41-485c-b25e-36a80a100337",
+    "groupKey" : "Apartment 2 Bedrooms",
+    "name" : "Apartment 2 Bedroom",
+    "description" : "Apartment 2 Bedroom",
+    "totalPrice" : 278.97,
+    "price" : 278.97,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "60",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-12T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-13T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-11T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 27.62
+      },
+      {
+        "DateFrom" : "2018-09-13T23:59:00",
+        "DateTo" : "2018-09-11T23:59:00",
+        "Amount" : 82.86
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 138.1
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Apartment"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "789a1903-4681-4dd0-8b9a-3d55b78449c3",
+    "groupKey" : "Double/Twin",
+    "name" : "Twin/Double Room",
+    "description" : "Twin/Double Room",
+    "totalPrice" : 283.54,
+    "price" : 283.54,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "21",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 84.22
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 140.37
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double",
+      "Twin"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "30994f9e-a3f6-49d1-96e1-60515f8ce425",
+    "groupKey" : "Double/Twin",
+    "name" : "Twin/Double Room - Sea View",
+    "description" : "Twin/Double Room - Sea View",
+    "totalPrice" : 283.54,
+    "price" : 283.54,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "22",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 84.22
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 140.37
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double",
+      "Twin"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "sea view"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "0cc9fef5-32a1-4b9c-bb61-e13a30482abb",
+    "groupKey" : "Double/Twin",
+    "name" : "Twin/Double Room - Budget",
+    "description" : "Twin/Double Room - Budget",
+    "totalPrice" : 285.44,
+    "price" : 285.44,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1288",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 84.79
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 141.31
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Hotel"
+    ],
+    "bedTypeLabel" : [
+      "Double",
+      "Twin"
+    ],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  },
+  {
+    "id" : "fd96d5a2-c4dc-46ae-963a-eed6d8b2194d",
+    "groupKey" : "Studio",
+    "name" : "Studio - Economy",
+    "description" : "Studio - Economy",
+    "totalPrice" : 285.44,
+    "price" : 285.44,
+    "promoPrice" : 0,
+    "b2CPrice" : 0,
+    "savingPercent" : 0,
+    "boardCode" : "1489",
+    "boardCodeDescription" : "All Inclusive",
+    "hotelId" : "FR37525",
+    "isNonRefundable" : false,
+    "canHoldBooking" : true,
+    "facilities" : {},
+    "images" : null,
+    "specialOffers" : [],
+    "surcharges" : null,
+    "nightlyRates" : null,
+    "cancelFreeBeforeDate" : "2018-09-07T23:59:00",
+    "roomCancelCharges" : [
+      {
+        "DateFrom" : "2018-08-29T09:51:00",
+        "DateTo" : "2018-09-08T23:59:00",
+        "Amount" : 0
+      },
+      {
+        "DateFrom" : "2018-09-08T23:59:00",
+        "DateTo" : "2018-09-15T23:59:00",
+        "Amount" : 84.79
+      },
+      {
+        "DateFrom" : "2018-09-15T23:59:00",
+        "DateTo" : "2018-09-16T23:59:00",
+        "Amount" : 141.31
+      }
+    ],
+    "hasBreakfast" : false,
+    "debugInfos" : [
+      {
+        "Key" : "SearchRequestId",
+        "Value" : "789e264573734ebdb44c3b0d454980e1"
+      }
+    ],
+    "accommodateText" : [
+      "Studio"
+    ],
+    "bedTypeLabel" : [],
+    "roomTypeLabel" : [
+      "run of the house"
+    ],
+    "viewLabel" : [
+      "not specified"
+    ],
+    "isVisible" : true,
+    "selected" : false
+  }
+]
