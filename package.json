@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fattahmuhyiddeen.github.io/react-room-booking-sample/",
+  "homepage": "https://fattahmuhyiddeen.github.io/reset-password/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "query-string": "^6.2.0",
