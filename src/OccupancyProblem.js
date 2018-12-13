@@ -27,7 +27,17 @@ export default class App extends React.Component {
   }
 
   resendPassword = () => {
-
+    fetch('https://mywebsite.com/endpoint/', {
+      method: 'POST',
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        firstParam: 'yourValue',
+        secondParam: 'yourOtherValue',
+      }),
+    });
   }
   onChange = (type, value) => this.setState({ [type]: value })
 
