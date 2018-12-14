@@ -1,14 +1,14 @@
 {
-  "main.css": "/reset-password/static/css/main.f4411f64.chunk.css",
-  "main.js": "/reset-password/static/js/main.18b84bbe.chunk.js",
-  "main.js.map": "/reset-password/static/js/main.18b84bbe.chunk.js.map",
-  "static/js/1.d5753416.chunk.js": "/reset-password/static/js/1.d5753416.chunk.js",
-  "static/js/1.d5753416.chunk.js.map": "/reset-password/static/js/1.d5753416.chunk.js.map",
-  "runtime~main.js": "/reset-password/static/js/runtime~main.eecb43a8.js",
-  "runtime~main.js.map": "/reset-password/static/js/runtime~main.eecb43a8.js.map",
-  "static/media/logo.svg": "/reset-password/static/media/logo.5d5d9eef.svg",
-  "static/css/main.f4411f64.chunk.css.map": "/reset-password/static/css/main.f4411f64.chunk.css.map",
-  "index.html": "/reset-password/index.html",
-  "precache-manifest.51db93803287e4b523633dece4051ee6.js": "/reset-password/precache-manifest.51db93803287e4b523633dece4051ee6.js",
-  "service-worker.js": "/reset-password/service-worker.js"
+  "main.css": "/public/forgotpassword/static/css/main.f4411f64.chunk.css",
+  "main.js": "/public/forgotpassword/static/js/main.d908a97b.chunk.js",
+  "main.js.map": "/public/forgotpassword/static/js/main.d908a97b.chunk.js.map",
+  "static/js/1.d5753416.chunk.js": "/public/forgotpassword/static/js/1.d5753416.chunk.js",
+  "static/js/1.d5753416.chunk.js.map": "/public/forgotpassword/static/js/1.d5753416.chunk.js.map",
+  "runtime~main.js": "/public/forgotpassword/static/js/runtime~main.b5694852.js",
+  "runtime~main.js.map": "/public/forgotpassword/static/js/runtime~main.b5694852.js.map",
+  "static/media/logo.svg": "/public/forgotpassword/static/media/logo.5d5d9eef.svg",
+  "static/css/main.f4411f64.chunk.css.map": "/public/forgotpassword/static/css/main.f4411f64.chunk.css.map",
+  "index.html": "/public/forgotpassword/index.html",
+  "precache-manifest.82314184ca7fb4e0e9ff45b2d886fc01.js": "/public/forgotpassword/precache-manifest.82314184ca7fb4e0e9ff45b2d886fc01.js",
+  "service-worker.js": "/public/forgotpassword/service-worker.js"
 }
