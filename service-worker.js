@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/public/forgotpassword/precache-manifest.82314184ca7fb4e0e9ff45b2d886fc01.js"
+  "/reset-password/precache-manifest.59f8ebdf61820285f0b63b8f543ddbd9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/public/forgotpassword/index.html", {
+workbox.routing.registerNavigationRoute("/reset-password/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
