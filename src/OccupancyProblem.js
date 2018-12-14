@@ -27,7 +27,7 @@ export default class App extends React.Component {
   }
 
   resendPassword = () => {
-    const { password, repassword } = this.state
+    const { email, password, repassword } = this.state
     if (password === '') {
       return alert("Please enter password")
     }
@@ -41,7 +41,17 @@ export default class App extends React.Component {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(this.state),
-    }).then().catch((e) => {
+    }).then((r) => {
+      if (r.status === 200) {
+        alert("Success, please go to your app to login using " + email + " with your new password")
+      } else {
+        // const res = r.json()
+        alert("Sorry, please try later")
+
+        // alert(JSON.stringify(res.message))
+      }
+      // 
+    }).catch((e) => {
       console.log(e)
       alert("Sorry, please try later")
     });
