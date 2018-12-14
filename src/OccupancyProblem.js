@@ -41,7 +41,10 @@ export default class App extends React.Component {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(this.state),
-    }).then().catch(alert("Sorry, please try later"));
+    }).then().catch((e) => {
+      console.log(e)
+      alert("Sorry, please try later")
+    });
   }
   onChange = (type, value) => this.setState({ [type]: value })
 
