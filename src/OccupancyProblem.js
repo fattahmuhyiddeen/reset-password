@@ -14,7 +14,7 @@ export default class App extends React.Component {
     password: '',
     repassword: '',
     email: '',
-    token: ''
+    forgotPasswordToken: ''
   }
 
   componentDidMount() {
@@ -22,22 +22,26 @@ export default class App extends React.Component {
     const data = queryString.parseUrl(window.location.href)
     // alert(JSON.stringify(data))
     if (data.query) {
-      this.setState({ email: data.query.e, token: data.query.k })
+      this.setState({ email: data.query.e.replace("%40", "@"), forgotPasswordToken: data.query.k })
     }
   }
 
   resendPassword = () => {
-    fetch('https://mywebsite.com/endpoint/', {
+    const { password, repassword } = this.state
+    if (password === '') {
+      return alert("Please enter password")
+    }
+    if (password !== repassword) {
+      return alert("Password did not match")
+    }
+    fetch('http://54.169.122.165/forget', {
       method: 'POST',
       headers: {
-        Accept: 'application/json',
+        'Accept': 'application/json',
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({
-        firstParam: 'yourValue',
-        secondParam: 'yourOtherValue',
-      }),
-    });
+      body: JSON.stringify(this.state),
+    }).then().catch(alert("Sorry, please try later"));
   }
   onChange = (type, value) => this.setState({ [type]: value })
 
@@ -48,8 +52,8 @@ export default class App extends React.Component {
     const { password, repassword } = this.state
     return (
       <div>
-        <div style={styles.inputContainer} >Password : <input onFocus={this.handleFocus} onChange={(e) => this.onChange('password', e.target.value)} value={password} /></div>
-        <div style={styles.inputContainer} >Retype Password : <input onFocus={this.handleFocus} onChange={(e) => this.onChange('repassword', e.target.value)} value={repassword} /></div>
+        <div style={styles.inputContainer} >Password : <input type="password" onFocus={this.handleFocus} onChange={(e) => this.onChange('password', e.target.value)} value={password} /></div>
+        <div style={styles.inputContainer} >Retype Password : <input type="password" onFocus={this.handleFocus} onChange={(e) => this.onChange('repassword', e.target.value)} value={repassword} /></div>
         <div style={styles.button} onClick={this.resendPassword}>Proceed</div>
       </div>
     );
