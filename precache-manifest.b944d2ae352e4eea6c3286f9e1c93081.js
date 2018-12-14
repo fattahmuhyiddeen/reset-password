@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d1883f6d1cf99ad46ba0",
+    "revision": "5a7991cce9e4db471083",
     "url": "/reset-password/static/css/main.f4411f64.chunk.css"
   },
   {
-    "revision": "d1883f6d1cf99ad46ba0",
-    "url": "/reset-password/static/js/main.d1883f6d.chunk.js"
+    "revision": "5a7991cce9e4db471083",
+    "url": "/reset-password/static/js/main.5a7991cc.chunk.js"
   },
   {
     "revision": "d57534164c801f80760f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/reset-password/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "02d3f1bac1d825d0861dfb3ec8e309d2",
+    "revision": "68ba6a9606e7cca51bc42b16b5ebb8a0",
     "url": "/reset-password/index.html"
   }
 ];
