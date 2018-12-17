@@ -63,7 +63,7 @@ export default class App extends React.Component {
     const { password, repassword } = this.state
     return (
       <div>
-        <div style={styles.inputContainer} >Password : <input type="password" onFocus={this.handleFocus} onChange={(e) => this.onChange('password', e.target.value)} value={password} /></div>
+        <div style={styles.inputContainer} >New Password : <input type="password" onFocus={this.handleFocus} onChange={(e) => this.onChange('password', e.target.value)} value={password} /></div>
         <div style={styles.inputContainer} >Retype Password : <input type="password" onFocus={this.handleFocus} onChange={(e) => this.onChange('repassword', e.target.value)} value={repassword} /></div>
         <div style={styles.button} onClick={this.resendPassword}>Proceed</div>
       </div>
