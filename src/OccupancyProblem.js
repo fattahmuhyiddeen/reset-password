@@ -14,6 +14,7 @@ export default class App extends React.Component {
     password: '',
     repassword: '',
     email: '',
+    successMessage: '',
     forgotPasswordToken: ''
   }
 
@@ -21,7 +22,7 @@ export default class App extends React.Component {
     // const data = queryString.parse(window.location.href)
     const data = queryString.parseUrl(window.location.href)
     // alert(JSON.stringify(data))
-    if (data.query) {
+    if (data.query && data.query.e && data.query.k) {
       this.setState({ email: data.query.e.replace("%40", "@"), forgotPasswordToken: data.query.k })
     }
   }
@@ -43,7 +44,7 @@ export default class App extends React.Component {
       body: JSON.stringify(this.state),
     }).then((r) => {
       if (r.status === 200) {
-        alert("Success, please go to your app to login using " + email + " with your new password")
+        this.setState({ successMessage: "Success, please go to your app to login using " + email + " with your new password" })
       } else {
         // const res = r.json()
         alert("Sorry, please try later")
@@ -60,7 +61,12 @@ export default class App extends React.Component {
   handleFocus = (event) => event.target.select()
 
   render() {
-    const { password, repassword } = this.state
+    const { password, repassword, successMessage } = this.state
+
+    if (successMessage !== '') {
+      return <div style={styles.inputContainer} >{successMessage}</div>
+
+    }
     return (
       <div>
         <div style={styles.inputContainer} >New Password : <input type="password" onFocus={this.handleFocus} onChange={(e) => this.onChange('password', e.target.value)} value={password} /></div>
