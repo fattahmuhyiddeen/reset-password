@@ -35,7 +35,7 @@ export default class App extends React.Component {
     if (password !== repassword) {
       return alert("Password did not match")
     }
-    fetch('https://api-rewards.nexlife.com.my/forget', {
+    fetch('/forget', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',
@@ -51,7 +51,7 @@ export default class App extends React.Component {
       }
       // 
     }).catch((e) => {
-      console.log(e)
+      // console.log(e)
       alert("Sorry, please try later")
     });
   }
